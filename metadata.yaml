@@ -1,0 +1,25 @@
+_repo: The-Institutes-of-Justinian_5983
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Moyle, John Baron
+    alias: Moyle, J. B. (John Baron)
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '1903'
+    url: http://www.gutenberg.org/2009/agents/1903
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5983'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'KJ'
+- !lcsh 'Roman law'
+- GITenberg
+title: The Institutes of Justinian
+url: http://www.gutenberg.org/ebooks/5983
